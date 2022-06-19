@@ -8,7 +8,6 @@
     - See Allowlist list.
     - Allowlist deletion.
     - Search option in Allowlist.
-------------------------
 
 [DISCORD](https://discord.gg/2urvDbHRRD)
 
