@@ -2,7 +2,7 @@
 # To open the menu /allowlist
 
 
-                 Vanesca - Allowlist v1.0
+                 ESCA - Allowlist v1.0
     - Allowlist in game panel.
     - 3 separate authorization options for manager accounts.
     - Quickly add allowlist.
