@@ -1,6 +1,6 @@
 # esca-allowlist
 
--------------------------------------------------
+
                  Vanesca - Allowlist v1.0
     - Allowlist in game panel.
     - 3 separate authorization options for manager accounts.
