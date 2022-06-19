@@ -1,5 +1,14 @@
 # esca-allowlist
 
+-------------------------------------------------
+                 Vanesca - Allowlist v1.0
+    - Allowlist in game panel.
+    - 3 separate authorization options for manager accounts.
+    - Quickly add allowlist.
+    - See Allowlist list.
+    - Allowlist deletion.
+    - Search option in Allowlist.
+------------------------
 
 [DISCORD](https://discord.gg/2urvDbHRRD)
 
