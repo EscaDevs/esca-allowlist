@@ -1,4 +1,6 @@
 # esca-allowlist
+!To open the menu /allowlist
+
 
 
                  Vanesca - Allowlist v1.0
