@@ -26,3 +26,25 @@ Don't forgot to join our discord.
 #
 ![image](https://user-images.githubusercontent.com/107806100/174495879-b1d92deb-6ffc-4c14-9d48-730a12fc6f8e.png)
 
+SQL                
+
+    CREATE TABLE IF NOT EXISTS `allowlist` (
+      `hex` varchar(50) DEFAULT NULL,
+      `nickname` varchar(50) DEFAULT NULL,
+      `adminname` varchar(50) DEFAULT NULL,
+      `lastonline` varchar(50) DEFAULT 'Unknown'
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+    CREATE TABLE IF NOT EXISTS `allowlist_admin` (
+      `username` varchar(50) DEFAULT NULL,
+      `password` varchar(50) DEFAULT NULL,
+      `admin_name` varchar(50) DEFAULT NULL,
+      `auth` enum('added','remove','all') DEFAULT 'added'
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+    INSERT INTO `allowlist_admin` (`username`, `password`, `admin_name`, `auth`) VALUES
+      ('owner', 'owner', 'Owner', 'all'),
+      ('admin', 'admin', 'Admin', 'added');
+    
