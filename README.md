@@ -10,6 +10,13 @@
     - Allowlist deletion.
     - Search option in Allowlist.
 
+Welcome to ESCA DEVS,
+Free and Paid scripts.
+Here you can find the best for your server.
+If you have any problems or suggestions.
+We are doing raffles on discord!
+Don't forgot to join our discord.
+
 [DISCORD](https://discord.gg/2urvDbHRRD)
 
 # IMAGE
